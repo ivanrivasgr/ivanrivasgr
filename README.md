@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **my own projects**
 
-- 🌱 I’m currently learning **AWS Data Analytics Specialty**
+- 🌱 I’m currently learning **AWS Data Engineer Associate**
 
-- 🤝 I’m looking for help with **my knowledges**
+- 🤝 I’m looking for help with **my knowledges in data and sports**
 
 - 💬 Ask me about **Data Analyst**
 
