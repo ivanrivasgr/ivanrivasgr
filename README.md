@@ -1,20 +1,55 @@
-<h1 align="center">Hi 👋, I'm Iván Rivas</h1>
-<h3 align="center">A passionate Data Analyst from Venezuela</h3>
+# 👋 Hi, I'm Iván Rivas  
 
-- 🔭 I’m currently working on **my own projects**
+**Technical Customer Success Lead | Data Architect (GCP & AWS)**  
+Remote · Corpus Christi, TX  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ifrg) 
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/ivanrivasgr)
+[![Email](https://img.shields.io/badge/Email-ivan.rivas00@gmail.com-D14836?logo=gmail&logoColor=white)](mailto:ivan.rivas00@gmail.com)
 
-- 🌱 I’m currently learning **AWS Data Engineer Associate**
+---
 
-- 🤝 I’m looking for help with **my knowledges in data and sports**
+## 🚀 About Me
+I’m a **Technical Customer Success Manager** and **Data Architect** passionate about transforming complex data into clear, scalable analytics systems.  
+I specialize in building **data pipelines, integrations, and dashboards** that drive strategic decisions across organizations.
 
-- 💬 Ask me about **Data Analyst**
+Data Scientist in Sports in progress...
 
-- 📫 How to reach me **ivan.rivas00@gmail.com**
+💡 My focus: turning technical execution into measurable business impact.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/iván rivas gruber" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iván rivas gruber" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+## ⚙️ Tech Stack
+**Languages:** Python, SQL, Ruby  
+**Cloud Platforms:** Google Cloud (BigQuery, Cloud Composer, Storage), AWS (S3, Redshift)  
+**ETL & Automation:** Tray.io, Zapier, APIs  
+**BI & Analytics:** Metabase, Power BI, Tableau, Zoho Analytics  
+**Version Control:** Git, GitHub  
+
+---
+
+## 📊 Featured Projects
+
+### 🏗️ [Financial Analytics for Construction Projects](https://github.com/ivanrivasgr/financial_analytics_construction_projects)
+SQL-based data models and Metabase dashboards to track project income, expenses, and profitability across multiple construction sites.  
+Includes raw-to-cleaned data transformation, model logic, and drag-and-drop visualization design.
+
+### ☁️ [GCP Data Architecture Project](https://github.com/ivanrivasgr/gcp_data_architecture_project)
+Modular GCP pipeline integrating Cloud Storage, BigQuery, and Looker Studio for scalable analytics.  
+Designed for automated ETL orchestration using Cloud Composer and Terraform.
+
+---
+
+## 🧠 Interests
+- Cloud data architecture & orchestration (Airflow, Terraform)  
+- BI automation & dashboard design  
+- Predictive analytics 
+
+---
+
+## 📬 Contact
+📧 [ivan.rivas00@gmail.com](mailto:ivan.rivas00@gmail.com)  
+🌐 [linkedin.com/in/ifrg](https://www.linkedin.com/in/ifrg)
+
+---
+
+> “Architecture is not about storing data — it’s about **how data flows to create value**.”
