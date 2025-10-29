@@ -29,14 +29,25 @@ Data Scientist in Sports in progress...
 
 ## 📊 Featured Projects
 
-### 🏗️ [Financial Analytics for Construction Projects](https://github.com/ivanrivasgr/financial_analytics_construction_projects)
+### 🏗️ Financial Analytics for Construction Projects
 SQL-based data models and Metabase dashboards to track project income, expenses, and profitability across multiple construction sites.  
 Includes raw-to-cleaned data transformation, model logic, and drag-and-drop visualization design.
 
-### ☁️ [GCP Data Architecture Project](https://github.com/ivanrivasgr/gcp_data_architecture_project)
+🔗 Repo: https://github.com/ivanrivasgr/financial_analytics_construction_projects
+
+###🤖 Ruby Dropbox File Automation  
+
+Automated pipeline in Ruby that detects uploaded CSV files in Dropbox, cleans/transforms the data, and routes them to destination folders.  
+Includes file mapping logic, CSV validation (dates, phone numbers), and scheduled execution.
+
+🔗 Repo: https://github.com/ivanrivasgr/ruby_dropbox_file_automation-
+
+
+### ☁️ GCP Data Architecture Project
 Modular GCP pipeline integrating Cloud Storage, BigQuery, and Looker Studio for scalable analytics.  
 Designed for automated ETL orchestration using Cloud Composer and Terraform.
 
+🔗 Repo: https://github.com/ivanrivasgr/gcp_data_architecture_project
 ---
 
 ## 🧠 Interests
