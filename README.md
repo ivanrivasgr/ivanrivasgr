@@ -35,7 +35,7 @@ Includes raw-to-cleaned data transformation, model logic, and drag-and-drop visu
 
 🔗 Repo: https://github.com/ivanrivasgr/financial_analytics_construction_projects
 
-###🤖 Ruby Dropbox File Automation  
+### 🤖 Ruby Dropbox File Automation  
 
 Automated pipeline in Ruby that detects uploaded CSV files in Dropbox, cleans/transforms the data, and routes them to destination folders.  
 Includes file mapping logic, CSV validation (dates, phone numbers), and scheduled execution.
@@ -48,6 +48,7 @@ Modular GCP pipeline integrating Cloud Storage, BigQuery, and Looker Studio for 
 Designed for automated ETL orchestration using Cloud Composer and Terraform.
 
 🔗 Repo: https://github.com/ivanrivasgr/gcp_data_architecture_project
+
 ---
 
 ## 🧠 Interests
