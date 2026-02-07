@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Iván Rivas  
+# 👋 Hi, I'm Ivan Gruber  
 
 **Technical Support Manager & Data Engineer | Analytics, Integrations & Operational Intelligence | CRM • BI • Sports Data**  
 Remote · Corpus Christi, TX  
