@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Iván Rivas  
 
-**Technical Customer Success Lead | Data Architect (GCP & AWS)**  
+**Technical Support Manager & Data Engineer | Analytics, Integrations & Operational Intelligence | CRM • BI • Sports Data**  
 Remote · Corpus Christi, TX  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ifrg) 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/ivanrivasgr)
@@ -9,10 +9,7 @@ Remote · Corpus Christi, TX
 ---
 
 ## 🚀 About Me
-I’m a **Technical Customer Success Manager** and **Data Architect** passionate about transforming complex data into clear, scalable analytics systems.  
-I specialize in building **data pipelines, integrations, and dashboards** that drive strategic decisions across organizations.
-
-Data Scientist in Sports in progress...
+As a Technical Support Manager at Spiro.AI, I contribute to delivering complex client integrations using tools like Tray.io, Zapier, and Ruby-based frameworks to improve data workflows across ERP, CRM, and marketing platforms. I played a key role in migrating to a centralized code-based integration framework, ensuring maintainable and scalable solutions, while leading the design, development, and deployment of 20 production integrations within a tight timeline. 
 
 💡 My focus: turning technical execution into measurable business impact.
 
