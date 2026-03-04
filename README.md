@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ivan Gruber  
 
-**Technical Support Manager & Data Engineer | Analytics, Integrations & Operational Intelligence | CRM • BI • Sports Data**  
+**Data Engineer and Technical Support Manager | Analytics, Integrations & Operational Intelligence | CRM • BI • Sports Data**  
 Remote · Corpus Christi, TX  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ifrg) 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/ivanrivasgr)
@@ -56,7 +56,7 @@ Designed for automated ETL orchestration using Cloud Composer and Terraform.
 ---
 
 ## 📬 Contact
-📧 [ivan.rivas00@gmail.com](mailto:ivan.rivas00@gmail.com)  
+📧 [ivanfgruber@gmail.com](mailto:ivanfgruber@gmail.com)  
 🌐 [linkedin.com/in/ifrg](https://www.linkedin.com/in/ifrg)
 
 ---
